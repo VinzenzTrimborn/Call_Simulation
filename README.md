@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment 1
 ## Simulation of a Cellular Telephony Network
 ### Problem Statement
@@ -883,3 +884,7 @@ print("In total there are between {}% - {}% more calls blocked and dropped with 
 ##### The company has to decide between FCA10 and FCA9 depending on their policy
 + **If we care more about dropped calls and can accept more blocked calls, we can use FCA9**
 + **If we want to increase the overall performance of the system (less blocked and dropped calls) we should stay with FCA10**
+=======
+# Call_Simulation
+https://github.com/VinzenzTrimborn/Call_Simulation/blob/master/Assignment_1.2%20-%20Jupyter%20Notebook.pdf
+>>>>>>> 8a7292b50121f48409696b35e89aaefe29bbb9dc
